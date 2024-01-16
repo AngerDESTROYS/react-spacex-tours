@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/AngerDESTROYS/react-spacex-tours/static/css/main.922cf70a.css",
-    "main.js": "/AngerDESTROYS/react-spacex-tours/static/js/main.6a320794.js",
-    "static/media/img2.png": "/AngerDESTROYS/react-spacex-tours/static/media/img2.3445162a8c5a42c343a0.png",
-    "static/media/img1.png": "/AngerDESTROYS/react-spacex-tours/static/media/img1.a9beef75a8270302e956.png",
-    "static/media/img3.png": "/AngerDESTROYS/react-spacex-tours/static/media/img3.66c346d1d51b184a629d.png",
-    "static/media/Lato-Light.ttf": "/AngerDESTROYS/react-spacex-tours/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
-    "static/media/Lato-Regular.ttf": "/AngerDESTROYS/react-spacex-tours/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
-    "static/media/Syne-ExtraBold.ttf": "/AngerDESTROYS/react-spacex-tours/static/media/Syne-ExtraBold.99cf775aa2fb7d59d2da.ttf",
-    "static/media/Syne-Bold.ttf": "/AngerDESTROYS/react-spacex-tours/static/media/Syne-Bold.4f7a3ab12ddb09781520.ttf",
-    "static/media/logo.svg": "/AngerDESTROYS/react-spacex-tours/static/media/logo.4050e38b5d25052d4a0f07fe1012d44f.svg",
-    "static/media/Favourites.svg": "/AngerDESTROYS/react-spacex-tours/static/media/Favourites.db11edc30be41fce9a0773daad86cb83.svg",
-    "static/media/Delete.svg": "/AngerDESTROYS/react-spacex-tours/static/media/Delete.63fc25cbc78b1fac1a009d4551bfbc15.svg",
-    "index.html": "/AngerDESTROYS/react-spacex-tours/index.html",
-    "static/media/ArrowDown.svg": "/AngerDESTROYS/react-spacex-tours/static/media/ArrowDown.b4b55e99988497f7265be58c52f0783f.svg",
-    "static/media/arrow-left.svg": "/AngerDESTROYS/react-spacex-tours/static/media/arrow-left.b648c42d9074da7ebed4cd2fd8d045de.svg",
-    "main.922cf70a.css.map": "/AngerDESTROYS/react-spacex-tours/static/css/main.922cf70a.css.map",
-    "main.6a320794.js.map": "/AngerDESTROYS/react-spacex-tours/static/js/main.6a320794.js.map"
+    "main.css": "/react-spacex-tours/static/css/main.922cf70a.css",
+    "main.js": "/react-spacex-tours/static/js/main.41d7960d.js",
+    "static/media/img2.png": "/react-spacex-tours/static/media/img2.3445162a8c5a42c343a0.png",
+    "static/media/img1.png": "/react-spacex-tours/static/media/img1.a9beef75a8270302e956.png",
+    "static/media/img3.png": "/react-spacex-tours/static/media/img3.66c346d1d51b184a629d.png",
+    "static/media/Lato-Light.ttf": "/react-spacex-tours/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Regular.ttf": "/react-spacex-tours/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Syne-ExtraBold.ttf": "/react-spacex-tours/static/media/Syne-ExtraBold.99cf775aa2fb7d59d2da.ttf",
+    "static/media/Syne-Bold.ttf": "/react-spacex-tours/static/media/Syne-Bold.4f7a3ab12ddb09781520.ttf",
+    "static/media/logo.svg": "/react-spacex-tours/static/media/logo.4050e38b5d25052d4a0f07fe1012d44f.svg",
+    "static/media/Favourites.svg": "/react-spacex-tours/static/media/Favourites.db11edc30be41fce9a0773daad86cb83.svg",
+    "static/media/Delete.svg": "/react-spacex-tours/static/media/Delete.63fc25cbc78b1fac1a009d4551bfbc15.svg",
+    "index.html": "/react-spacex-tours/index.html",
+    "static/media/ArrowDown.svg": "/react-spacex-tours/static/media/ArrowDown.b4b55e99988497f7265be58c52f0783f.svg",
+    "static/media/arrow-left.svg": "/react-spacex-tours/static/media/arrow-left.b648c42d9074da7ebed4cd2fd8d045de.svg",
+    "main.922cf70a.css.map": "/react-spacex-tours/static/css/main.922cf70a.css.map",
+    "main.41d7960d.js.map": "/react-spacex-tours/static/js/main.41d7960d.js.map"
   },
   "entrypoints": [
     "static/css/main.922cf70a.css",
-    "static/js/main.6a320794.js"
+    "static/js/main.41d7960d.js"
   ]
 }

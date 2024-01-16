@@ -1,7 +1,23 @@
 # [DEMO](https://angerdestroys.github.io/react-spacex-tours/)
-# Getting Started with Create React App
+# React SpaceX Tours
+## Technologies Used
+This project utilizes the following technologies:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React: A JavaScript library for building user interfaces.
+
+React Router: A standard library for routing in React applications.
+
+Apollo Client: A comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL.
+
+Recoil: A state management library for React that helps you manage the state of your application.
+
+Styled Components: A CSS-in-JS library that allows you to write actual CSS code to style your components.
+
+Swiper: A modern touch slider library.
+
+GraphQL: A query language for APIs used to request only the data needed and nothing more.
+
+gh-pages: A GitHub Pages deployment script.
 
 ## Available Scripts
 

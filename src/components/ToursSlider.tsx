@@ -47,8 +47,6 @@ const ToursSlider = () => {
     })
   );
 
-  console.log(tourData);
-
   return (
     <SliderContainer>
       <SliderHeader>
@@ -69,11 +67,14 @@ const ToursSlider = () => {
           <SliderButtonNext
             type="button"
             className={`slider_button_right ${
-              currentSlide === tourData.length - 3 ? "disabled" : ""
+              currentSlide === (tourData.length - 3) ? "disabled" : ""
             } uniqueSliderId-right`}
             aria-label="Next"
-            disabled={currentSlide === tourData.length - 1}
-            onClick={() => setCurrentSlide(currentSlide + 1)}
+            disabled={currentSlide === tourData.length - 3}
+            onClick={() => {
+              setCurrentSlide(currentSlide + 1);
+              console.log(currentSlide, tourData.length, currentSlide === tourData.length - 3);
+            }}
           >
             <Next src={arrow} alt="Next" />
           </SliderButtonNext>

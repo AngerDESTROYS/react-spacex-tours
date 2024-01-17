@@ -69,7 +69,7 @@ const ToursSlider = () => {
           <SliderButtonNext
             type="button"
             className={`slider_button_right ${
-              currentSlide === tourData.length - 2 ? "disabled" : ""
+              currentSlide === tourData.length - 3 ? "disabled" : ""
             } uniqueSliderId-right`}
             aria-label="Next"
             disabled={currentSlide === tourData.length - 1}
